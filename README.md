@@ -7,3 +7,6 @@ http://mobius.fund/cmpc
 
 Foundation paper:
 http://mobius.fund/doc/Crypto_Mining.pdf
+
+Contact:
+jake@mobius.fund
