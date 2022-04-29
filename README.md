@@ -1,6 +1,6 @@
 # cmpc
 
-Source code will be available in the coming days.
+2022-04-28, main PHP script uploaded. Auxiliary scripts coming soon.
 
 Fully functional:
 http://mobius.fund/cmpc
